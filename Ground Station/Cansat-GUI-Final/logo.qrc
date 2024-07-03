@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="cansat_logo">
+    <file>Logos/team_logo.png</file>
+    <file>Logos/Cansat_logo.jpg</file>
+  </qresource>
+</RCC>

@@ -6,7 +6,7 @@ This repository contains the project documentation and code for our team's (Team
 
 ## Introduction
 
-This project details the development of our CanSat for the annual CanSat competition. Our goal was to design and build a functioning satellite within the constraints provided by the competition guidelines.
+This project details the development of our CanSat for the CanSat-India competition. Our goal was to design and build a functioning satellite within the constraints provided by the competition guidelines.
 
 ## Features
 
